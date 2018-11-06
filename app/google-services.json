@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "551745014738",
+    "firebase_url": "https://push-notify-backend.firebaseio.com",
+    "project_id": "push-notify-backend",
+    "storage_bucket": "push-notify-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551745014738:android:6def18ea3d053043",
+        "android_client_info": {
+          "package_name": "com.firebase_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551745014738-usg55eopjgp7f4cnihd4i5367l7pt4dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase_storage",
+            "certificate_hash": "43f17a5fca687084ff74590a2a07cb7b9d0bbcc3"
+          }
+        },
+        {
+          "client_id": "551745014738-drbmvm24567jii30ffb6gb77bmq2csku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDrUUKyUlHLTkA_b2qD4g-Q4aLr25vSZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551745014738-drbmvm24567jii30ffb6gb77bmq2csku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551745014738:android:7debfbb34336ffc1",
+        "android_client_info": {
+          "package_name": "shivam.sharma.accommoda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551745014738-drbmvm24567jii30ffb6gb77bmq2csku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDrUUKyUlHLTkA_b2qD4g-Q4aLr25vSZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551745014738:android:5b5945ff5ffa60ff",
+        "android_client_info": {
+          "package_name": "shivam.sharma.accommodationajmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551745014738-drbmvm24567jii30ffb6gb77bmq2csku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDrUUKyUlHLTkA_b2qD4g-Q4aLr25vSZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
